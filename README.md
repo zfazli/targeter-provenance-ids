@@ -1,6 +1,6 @@
 # Targeter
 
-This repository contains the implementation of **Targeter**, a behavior-driven approach for improving alert quality in provenance-based intrusion detection systems.
+This repository contains the implementation of **Targeter**, a behavior-driven approach for improving alert quality in provenance-based intrusion detection systems. Information about the datasets used for training, validation, and testing is provided in util/config.py.
 
 ## Acknowledgment
 
