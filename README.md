@@ -5,7 +5,7 @@ This repository contains the implementation of **Targeter**, a behavior-driven a
 ## Acknowledgment
 
 Parts of the preprocessing pipeline used in this project are based on the preprocessing utilities provided by [threaTrace](https://github.com/threaTrace-detector/threaTrace/). We thank the authors of threaTrace for making their implementation publicly available.
-The ground-truth annotations used in this study are available through the [ORTHRUS]([jiangorthrus](https://zenodo.org/records/14641606)).
+The ground-truth annotations used in this study are available through the [ORTHRUS](https://zenodo.org/records/14641606).
 
 ## Requirements
 
