@@ -67,6 +67,16 @@ python test.py --dataset theia-e3
 
 The same procedure can be applied to the other datasets by changing the value of `--dataset`.
 
+
 ## Citation
 
-If you use this repository or Targeter in your research, please cite the associated paper.
+If you use this repository or Targeter in your research, please cite the associated paper:
+
+```bibtex
+@article{fazli2026behavior,
+  title={Behavior-Specialized Anomaly Detection for Improving Alert Quality in Provenance-Based Intrusion Detection},
+  author={Fazli, Zahra and Kharrazi, Mehdi},
+  year={2026}
+}
+```
+
